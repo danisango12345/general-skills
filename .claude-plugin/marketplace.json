@@ -1,0 +1,13 @@
+{
+  "name": "danisango12345-general-skills",
+  "description": "General working guardrails for any domain",
+  "owner": { "name": "Dani", "email": "dani@sonderhr.co" },
+  "plugins": [
+    {
+      "name": "general-skills",
+      "source": "./",
+      "description": "General working guardrails: ask before producing, get permission before writing, verify before claiming done, and explain things in plain language.",
+      "version": "1.0.0"
+    }
+  ]
+}

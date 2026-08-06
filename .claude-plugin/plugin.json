@@ -1,0 +1,11 @@
+{
+  "name": "general-skills",
+  "version": "1.0.0",
+  "description": "General working guardrails: ask before producing, get permission before writing, verify before claiming done, and explain things in plain language.",
+  "author": {
+    "name": "Dani",
+    "email": "dani@sonderhr.co"
+  },
+  "repository": "https://github.com/danisango12345/general-skills",
+  "keywords": ["guardrails", "verification", "plain-language", "working-practice"]
+}
